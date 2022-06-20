@@ -11,6 +11,6 @@ Culture_dictc.csv: Contains word lists for the company culture analysis, for the
 
 mapping.csv: mapping file with bank names and annual fundamentals. Can be mapped with the transcripts via filename. Contains book value, equity value, total dividends, gross profit/loss, net profit/loss, total revenue, total market capitalisation, book value per share. Also dates and ticker.
 
-master_dict.csv: master dictionary from Loughran/McDonald. Contains wordlists for positivity and negativity in financial context. Used for the sentiment analysis.
+master_dict.csv: master dictionary from Loughran/McDonald. Contains wordlists for positivity and negativity in financial context. Used for the sentiment analysis. (Cannot be provided on GitHub)
 
 StopWords_Generic.txt: Stop words for financial context by Loughran/McDonald.
