@@ -5,7 +5,7 @@ README
 Files:
 
 
-Top-Line-Analysis-Notebook.ipynb - The original ipynb notebook, not converted to html. In order to use this notebook, please change directory. 
+Top-Line-Analysis-Notebook.ipynb - The ipynb notebook contains the entire topline analysis. In order to use this notebook, please change directory. 
 
 Dependencies used in the ipynb:
 - pandas
