@@ -1,6 +1,7 @@
 README 
 ———————
 
+Project includes to build a P&L statement and to conduct a top-line analysis to identify drivers of gross margin and EBITDA growth. The project has a strong focus on data cleaning and EDA. 
 
 Files:
 
